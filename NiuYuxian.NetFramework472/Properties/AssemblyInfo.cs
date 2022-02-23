@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ClassLibrary1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("NiuYuxian.NetFramework472")]
+[assembly: AssemblyDescription("First nuget package release")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ClassLibrary1")]
+[assembly: AssemblyCompany("arukas.io")]
+[assembly: AssemblyProduct("NiuYuxian.NetFramework472")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2CEA20DC-F23D-45A4-98B0-2353708AC6C5")]
+[assembly: Guid("5D5228A5-6D34-429A-80B8-9661388D0736")]
 
 // Version information for an assembly consists of the following four values:
 //
