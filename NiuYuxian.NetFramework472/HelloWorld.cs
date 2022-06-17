@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;
 using System.Text;
-using Newtonsoft.Json;
+// using Newtonsoft.Json;
 
 namespace NiuYuxian.NetFramework472
 {
@@ -20,8 +20,8 @@ namespace NiuYuxian.NetFramework472
                 Username = "admin",
                 Age = 10
             };
-            var jsonData = JsonConvert.SerializeObject(user, Formatting.Indented);
-            Console.WriteLine(jsonData);
+            // var jsonData = JsonConvert.SerializeObject(user, Formatting.Indented);
+            // Console.WriteLine(jsonData);
         }
     }
 
